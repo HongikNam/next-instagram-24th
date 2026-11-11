@@ -4,7 +4,7 @@ import { currentUser } from "@/mocks/users";
 import SidebarItem from "./SidebarItem";
 
 const menuItems: { icon: IconName; label: string; active?: boolean }[] = [
-  { icon: "home", label: "홈", active: true },
+  { icon: "home", label: "홈" },
   { icon: "reels", label: "릴스" },
   { icon: "share", label: "메시지" },
   { icon: "search", label: "검색" },
