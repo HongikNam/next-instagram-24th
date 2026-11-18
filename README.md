@@ -191,3 +191,23 @@ src/
 
 다른 사용자의 게시물도 저장할 수 있으므로 상세 주소는 각 게시물의 실제 작성자 username으로 생성합니다. 저장됨 탭에서는 일반 링크로 상세 페이지에 진입하도록 해, 다른 작성자의 경로로 이동할 때 프로필 모달 라우팅과 충돌하지 않도록 했습니다.
 
+
+## 이미지 출처
+
+개발자 밈 게시물(`public/images/meme-*.jpg`)에는 아래 위키미디어 공용 사진을 잘라 붙이고 문구를 더해 사용했습니다. 각 사진의 라이선스를 따릅니다.
+
+- [Lionel Messi 20180626.jpg](https://commons.wikimedia.org/wiki/File:Lionel_Messi_20180626.jpg) · Кирилл Венедиктов · CC BY-SA 3.0
+- [Lionel Messi Argentina v Spain 19 July 2026-046.jpg](https://commons.wikimedia.org/wiki/File:Lionel_Messi_Argentina_v_Spain_19_July_2026-046.jpg) · Bryan Berlin · CC BY-SA 4.0
+- [Lionel Messi NE Revolution Inter Miami 7.9.25-178 (cropped 2).jpg](https://commons.wikimedia.org/wiki/File:Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-178_(cropped_2).jpg) · Bryan Berlin · CC BY-SA 4.0
+- [Lionel Messi Argentina v Egypt 7 July 2026-218.jpg](https://commons.wikimedia.org/wiki/File:Lionel_Messi_Argentina_v_Egypt_7_July_2026-218.jpg) · Bryan Berlin · CC BY-SA 4.0
+- [Lionel Messi Argentina v Egypt 7 July 2026-316.jpg](https://commons.wikimedia.org/wiki/File:Lionel_Messi_Argentina_v_Egypt_7_July_2026-316.jpg) · Bryan Berlin · CC BY-SA 4.0
+- [Lionel Messi 20180626 (3x4 cropped).jpg](https://commons.wikimedia.org/wiki/File:Lionel_Messi_20180626_(3x4_cropped).jpg) · Кирилл Венедиктов · CC BY-SA 3.0
+- [Lionel Messi Argentina v Egypt 7 July 2026-336.jpg](https://commons.wikimedia.org/wiki/File:Lionel_Messi_Argentina_v_Egypt_7_July_2026-336.jpg) · Bryan Berlin · CC BY-SA 4.0
+- [Lionel Messi Argentina v Spain 19 July 2026-222.jpg](https://commons.wikimedia.org/wiki/File:Lionel_Messi_Argentina_v_Spain_19_July_2026-222.jpg) · Bryan Berlin · CC BY-SA 4.0
+- [Cristiano Ronaldo, 2023.jpg](https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo,_2023.jpg) · Mehrdad Esfahani/SNN · Attribution
+- [Cristiano Ronaldo 2018.jpg](https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_2018.jpg) · Анна Нэсси · CC BY-SA 3.0
+- [Cristiano Ronaldo benched.jpg](https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_benched.jpg) · Jahrenvisuals · CC BY 4.0
+- [Cristiano Ronaldo 2, 2010.jpg](https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_2,_2010.jpg) · Jan S0L0 · CC BY-SA 2.0
+- [Cristiano Ronaldo 2277.jpg](https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_2277.jpg) · YantsImages · CC BY-SA 4.0
+- [Cristiano Ronaldo (35609138466).jpg](https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_(35609138466).jpg) · Oleg Dubyna from Poltava, Ukraine · CC BY-SA 2.0
+- [Cristiano Ronaldo 4609.jpg](https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_4609.jpg) · Майоров Владимир (changed work: Amarhgil) · CC BY-SA 3.0
